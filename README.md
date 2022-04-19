@@ -10,5 +10,6 @@ Random (but useful) Debian scripts and utilities to save your time and your sani
 
 ## 💙 Ｃｒｅｄｉｔｓ 💝 
 * nano11bravo
-* mischiefx - Because why not?
 * xskye
+* mischiefx
+
