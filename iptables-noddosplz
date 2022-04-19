@@ -1,5 +1,9 @@
 #!usr/bin/env bash
-# TEST: Revised my bash shebang since I've been using usr/bin/bash for ages.
+# Simple No-DDOS Bash Script
+# Note: This doesn't cover any sort of UDP-based attacks as iptables
+# is not the preferred method for these sorts of attacks. You have been warned.
+# Also -- at the time of commit this was tested and working on Ubuntu 18 and 20.
+# if someone wants to test it out on more versions I'll be sure to include them in the credits.
 
 apt update
 echo Packages Updated.
