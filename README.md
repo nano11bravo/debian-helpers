@@ -2,7 +2,7 @@
 Random (but useful) Debian scripts and utilities to save your time and your sanity.
 
 * [iptables-noddosplz](https://github.com/nano11bravo/debian-helpers/blob/main/iptables-noddosplz) - Stupid simple iptables modification to aid in the protection of a host from DDOS attacks and/or other sorts of malicious activities.
-* [](https://github.com/nano11bravo/shell-stuff/blob/main/build-ffmpeg.sh) - Shell helper utility for compiling ffmpeg. Tested with centos & rocky.
+* [build-ffmpeg.sh](https://github.com/nano11bravo/shell-stuff/blob/main/build-ffmpeg.sh) - Helper utility for compiling ffmpeg. Tested with centos & rocky.
 
   
 ## 🔥 Ｄｉｓｃｌａｉｍｅｒ💥
