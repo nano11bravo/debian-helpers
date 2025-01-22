@@ -11,3 +11,4 @@ Random (but useful) Debian scripts and utilities to save your time and your sani
 ## 💙 Ｃｒｅｄｉｔｓ 💝 
 * nano11bravo
 * pluggo (for inspiration)
+* kasper (eating my data)
