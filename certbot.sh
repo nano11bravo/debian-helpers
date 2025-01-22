@@ -1,3 +1,4 @@
+#!/bin/bash
 # Ubuntu 18, 20 - Stable
 # Ubuntu 22 > - In progress
 # TODO: Make this compatible with Apache
